@@ -119,7 +119,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ###
 
-<img src="https://raw.githubusercontent.com/NinjaCoder-X/NinjaCoder-X/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/NinjaCoder-X/Jump-Rush/refs/heads/output/snake.svg" alt="Snake animation" />
 
 ###
 
