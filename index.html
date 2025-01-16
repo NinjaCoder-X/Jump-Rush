@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>2D Game</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+
+<body class="body" onkeyup="keyCheck(event);">
+
+    <div class="background" id="background">
+        <div class="startGame" id="startGame">
+            <h1 class="gameTitle">
+                <<<<<<<< Jump - Master >>>>>>>>
+                    <span class="gameTit"></span>
+            </h1>
+            <p class="instructions">⬇️⬇️⬇️ Instructions below ⬇️⬇️⬇️<br>
+                Press Start Game to Enter the game.<br> Press "↩️Enter" to move the Character & Press "󠀠󠀠󠀠󠀠󠀠󠀠⌨️Space" to jump.<br>
+                *Run without getting caught in the fire to score points. If the cowboy
+                touches the flames🤠 ,
+                his game is over🚫.<br><br>
+                GET MORE THAN 100 points to win. Happy Gaming🏆!!!
+            </p>
+            <br>
+            <button class="btnstart" onclick="startWindow();">Start Game</button>
+            <div class="tenorgif">
+                <img src="resources\gif\zeroTwo.gif" class="anime"/>
+            </div>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <h3 class="footerText">Made with ❤️ by Vihanga Sithum</h3>
+        </div>
+        <img src="resources\images\boy.png" class="boy" id="boy" />
+        <div class="score" id="score">0</div>
+
+    </div>
+
+    <div class="gameOver" id="gameOver">
+        <div style="color: rgb(251, 255, 11);">Game Over</div>
+        <div style="color: rgb(145, 189, 0);">Your Score</div>
+        <div style="color: rgb(54, 200, 223);" id="endScore">0</div>
+        <button class="btn" onclick="re();">Try Again</button>
+    </div>
+
+    <div class="gameWon" id="gameWon">
+        <div style="color: rgb(145, 189, 0);">CONGRATULATIONS</div>
+        <div style="color: rgb(251, 255, 11);">You Won</div>
+        <div style="color: rgb(145, 189, 0);">Your Score Reached 100!!!</div>
+        <div style="color: rgb(54, 200, 223);" id="endScore"></div>
+        <button class="btn" onclick="re();">Play Again</button>
+    </div>
+
+
+
+    <script src="script.js"></script>
+</body>
+
+</html>

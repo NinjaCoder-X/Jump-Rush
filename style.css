@@ -1,0 +1,172 @@
+.background{
+    width: 100vw;
+    height: 100vh;
+    background-image: url("background.jpeg");
+    background-size: cover;
+    background-repeat: repeat-x;
+    overflow-x: hidden;
+    position: absolute;
+    visibility: hidden;
+}
+
+.anime{
+    width: 130px;
+    height: 160px;
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    margin-left: -40px;
+}
+
+.body{
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden; /* Hide scrollbars */
+}
+
+
+.block{
+    position: absolute;
+    width: 80px;
+    height: 100px;
+    background-image: url("resources/gif/flame.gif");
+    background-size: cover;
+    margin-top: 530px;
+    visibility: visible;
+}
+
+.boy{
+    position: absolute;
+    height: 200px;
+    margin-top: 450px;
+}
+
+.score{
+    position: absolute;
+    font-size: 50px;
+    font-family: "Arial";
+    font-weight: bold;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+.gameOver{
+    position: absolute;
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(90deg,#8E0E00 0%,#1F1C18 100%);
+    visibility: hidden;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    font-size: 90px;
+    font-family: "Broadway";
+    color: white;
+    font-weight: bold;
+}
+
+.gameWon{
+    position: absolute;
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(90deg,#8E0E00 0%,#1F1C18 100%);
+    visibility: hidden;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    font-size: 90px;
+    font-family: "Broadway";
+    color: white;
+    font-weight: bold;
+}
+
+.btn{
+    width: 300px;
+    height: 35px;
+    margin-top: 50px;
+    background-color: aqua;
+
+    font-size: 25px;
+    font-weight: bold;
+    font-family: "Arial";
+
+    border-style: none;
+    border-radius: 20px;
+}
+
+.btn:hover{
+    height: 37px;
+    width: 305px;
+    background-color: rgb(0, 233, 233);
+    cursor: pointer;
+    color: rgb(0, 0, 0);
+}
+
+.startGame{
+    text-align: center;
+    visibility: visible;
+    position: absolute;
+    width: 100%;
+    height: 100vh;
+    background-image: url("startScreen.jpg");
+    background-size: cover;
+
+}
+
+.gameTitle{
+    font-family: 'Sniglet', cursive;
+    font-size: 80px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    color: red;
+}
+
+.gameTit{
+    font-family: 'Sniglet', cursive;
+    font-size: 50px;
+    margin-bottom: 15px;
+    color: aliceblue;
+}
+
+.instructions{
+    font-family: 'Sniglet', cursive;
+    font-size: 20px;
+    margin-bottom: 20px;
+    color: aliceblue;
+}
+
+.footerText{
+    font-family: 'Sniglet', cursive;
+    font-size: 35px;
+    margin-top: 25px;
+    color: aliceblue;
+}
+
+.btnstart{
+    width: 300px;
+    height: 35px;
+    margin-top: 50px;
+    background-color: aqua;
+
+    font-size: 25px;
+    font-weight: bold;
+    font-family: "Arial";
+
+    border-style: none;
+    border-radius: 20px;
+}
+
+.btnstart:hover{
+    height: 37px;
+    width: 305px;
+    background-color: red;
+    cursor: pointer;
+    color: rgb(0, 0, 0);
+}
