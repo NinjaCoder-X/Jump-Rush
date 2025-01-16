@@ -99,3 +99,38 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 - Special thanks to any tools, libraries, or tutorials used in the development of this game.
 
 ---
+
+###
+
+<div align="left">
+  <a href="https://www.youtube.com/@NinjaCoderXX-source" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="https://www.instagram.com/ninjacoderxx/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://discordapp.com/users/876625308218957865" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="ninjacoderxx@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/NinjaCoder-X/NinjaCoder-X/output/snake.svg" alt="Snake animation" />
+
+###
+
+<p align="left">End Of The Project.</p>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img height="210" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc291czAzNG10N2c4d25rcWprd3VsZGNoMzcxbHA5Z3c1YWUxM25vMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J86VLt2pVM96eWplpL/giphy.gif"  />
+</div>
+
+###
